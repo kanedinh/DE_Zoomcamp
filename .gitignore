@@ -1,0 +1,4 @@
+airflow
+postgres_docker/posgres_data
+#postgres_docker/.env
+postgres_docker/dockerrun.txt

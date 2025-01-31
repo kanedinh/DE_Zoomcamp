@@ -1,0 +1,7 @@
+FROM postgres:17.2
+
+ENV POSTGRES_USER=root \
+    POSTGRES_PASSWORD=root \
+    POSTGRES_DB=pg_database
+
+EXPOSE 5432
