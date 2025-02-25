@@ -1,0 +1,6 @@
+#python==3.10.10
+pandas==1.5.3
+#pyarrow==19.0.0
+#sqlalchemy==2.0.37
+#psycopg2-binary==2.9.10
+python-dotenv==1.0.1
